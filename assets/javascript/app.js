@@ -89,4 +89,36 @@ function displayGame() {
 /*function checkAnswer(){
     if(document.getElementById(''))
 }*/
+/*had trouble figuring out how to check my answer
+i figured if i gave the "rightAnswer" the value
+of the correct answer then maybe i can check it that way.
+however upon dynamically creating the card holding the question
+and answer buttons, i couldnt figure out how to best check this.
+
+spent all my time trying to figure out said logic i didnt 
+start on the index.html
+
+given the time, i'd ideally add a start button 
+that initiates the quiz, as well as a reset button when the quiz is finished
+
+i'd then verify the correct answers and add that to the 
+total number of correct answers, as well as the incorrect ones
+
+i'd also add the timer, and figure out how to incorporate that as well
+
+i'd then stylize my html using bootstrap and adding background 
+images.
+
+past few weeks have been tough for me, im not making excuses but
+i havent been able to fully focus and spend time on studying and hw 
+due to my mothers current condition, and having to help out
+
+bc of this ive been putting up subpar work that i know is 
+not an accurate display of what i can do
+
+i asked for time off at my job so i can go back and
+review everything as well as tighten up all my previous
+assignments.
+will complete this assignment as well as clean up my other ones 
+this coming week.
 
